@@ -9,14 +9,21 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "react": "^18",
-    "react-dom": "^18",
-    "next": "14.2.22"
+    "@heroicons/react": "^2.2.0",
+    "@react-three/drei": "^10.0.0",
+    "@react-three/fiber": "^9.0.4",
+    "framer-motion": "^12.4.7",
+    "next": "14.2.22",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-icons": "^5.5.0",
+    "react-intersection-observer": "^9.15.1",
+    "three": "^0.173.0"
   },
   "devDependencies": {
-    "postcss": "^8",
-    "tailwindcss": "^3.4.1",
     "eslint": "^8",
-    "eslint-config-next": "14.2.22"
+    "eslint-config-next": "14.2.22",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
   }
 }
